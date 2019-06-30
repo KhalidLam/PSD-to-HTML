@@ -2,4 +2,4 @@ Convert PSD using HTML, CSS & JS
 
 link to webpage : 
 
-![alt text](https://github.com/KhalidLam/PSD-to-HTML/blob/master/Design-site/img/screenshot.png)
+![alt text](https://github.com/KhalidLam/PSD-to-HTML/blob/master/Design-Site/img/screenshot.png)
